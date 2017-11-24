@@ -1,0 +1,28 @@
+{
+  "name": "w3.css",
+  "description": "W3.CSS is a modern CSS framework with built-in responsiveness",
+  "authors": [
+    "Jan Egil",
+    "Borge Refsnes"
+  ],
+  "homepage": "https://www.w3schools.com/w3css",
+  "main": [
+    "w3.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webleaf/w3.css.git"
+  },
+  "keywords": [
+    "w3",
+    "css",
+    "w3.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
